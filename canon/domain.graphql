@@ -1,0 +1,5 @@
+type BoundedContext {
+    name: String!
+    entities: [Entity]!
+
+}
